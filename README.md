@@ -12,6 +12,9 @@ plt.imshow(...,cmap=Azerite)
 If you want to add Azerite to your matplotlib, run the last but one line in ```Azerite.py```  
 你可以取消倒数第二行的注释并运行```Azerite.py```，来把Azerite配色添加到你的matplotlib中
 
+Result:  
+示例：
+
 ![image](https://github.com/AstroLight0626/Azerite-colormap/blob/main/colorbar%20vs%20Azerite%20Ore.jpg)
 
 
